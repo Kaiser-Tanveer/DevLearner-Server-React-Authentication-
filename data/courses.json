@@ -1,0 +1,80 @@
+[
+    {
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "name": "HTML",
+        "title": "Welcome to learn HTML",
+        "duration": "4 months",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png",
+        "details": "Hypertext Markup Language, or HTML, is a programming language used to describe the structure of information on a webpage. Together, HTML, CSS, and JavaScript make up the essential building blocks of websites worldwide, with CSS controlling a page’s appearance and JavaScript programming its functionality. You can think of the HTML document as providing the bones of a webpage, while CSS provides the skin, and JavaScript provides the brains"
+    },
+    {
+        "category_id": "02",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "name": "CSS",
+        "title": "Welcome to learn CSS",
+        "duration": "4 months",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png",
+        "details": "This course breaks down the fundamentals of CSS into digestible, easy to understand pieces. Over the next few modules, you'll learn how the core aspects of CSS work and how to use them effectively in your projects. Use the menu pane by the Learn CSS logo to navigate the modules. You'll learn CSS fundamentals like the box model, cascade and specificity, flexbox, grid and z-index. And, along with these fundamentals, you'll learn about functions, color types, gradients, logical properties and inheritance to make you a well-rounded front-end developer, ready to take on any user interface."
+    },
+    {
+        "category_id": "03",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "name": "JavaScript",
+        "title": "Welcome to learn JavaScript",
+        "duration": "4 months",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png",
+        "details": "You will learn modern JavaScript from the very beginning, step-by-step. I will guide you through practical and fun code examples, important theory about how JavaScript works behind the scenes, and beautiful and complete projects. You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need on your developer job. And unlike other courses, this one actually contains beginner, intermediate, advanced, and even expert topics, so you don't have to buy any other course in order to master JavaScript from the ground up! But... You don't have to go into all these topics. This is a huge course, because, after all, it's The Complete JavaScript Course. In fact, it's like many courses in one! But you can become an excellent developer by watching only parts of the course. That's why I built this course in a very modular way, and designed pathways that will take you through the course faster."
+    },
+    {
+        "category_id": "04",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "name": "ReactJs",
+        "title": "Welcome to learn ReactJs",
+        "duration": "4 months",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
+        "details": "React is one of the most powerful and popular frontend JavaScript frameworks used today. Being able to rapidly build robust browser-based applications allows us to provide more value to our end-users. Using JavaScript, this course guides you through creating a few React applications and provides an understanding of the concepts at the core of React"
+    },
+    {
+        "category_id": "05",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "title": "Welcome to learn ExpressJs",
+        "name": "ExpressJs",
+        "duration": "4 months",
+        "published_date": "2022-07-14 17:22:34",
+        "img": "https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png",
+        "details": "In this course, you’ll learn how to build HTTP servers in Node.js using the Express framework. Express allows you to start and configure a server with very little overhead and instead focus on the important work of defining server behavior. You’ll learn how to create routes to implement server behavior for different HTTP methods and paths. You’ll also learn how to use Express’s most powerful features, such as routers and middleware, in order to write clean and readable server-side code."
+    },
+    {
+        "category_id": "06",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "name": "Github",
+        "title": "Welcome to learn Github",
+        "duration": "4 months",
+        "published_date": "2021-08-22 17:27:34",
+        "img": "https://cdn-icons-png.flaticon.com/512/25/25231.png",
+        "details": "The course consists of lots of different topics. We will start from Git basics, where you can learn about how to install Git. We will go through the basics of the terminal, we will create our first local repository, and you will see how to save different versions of the project, as the snapshots, using commits. Next, we will move on and learn about how to go back in time and check the previous states of the project, update them or even delete with help of git checkout, git revert and git reset. Once we get some solid knowledge about Git, then we will start learning about the basics of GitHub. We will go through the topics, such as creating the repository on GitHub, connecting the local repository to a remote one, making commits and much more. Next, we will move on and see how to work with one of the greatest features of Git, which is branching. You will learn about how to deal with branches locally and also, remotely. After that, we will refer to kinda complex stuff. We will show you how to merge branches with different methods, and also, how to deal with merge conflicts. Next, it should be followed by forking and contributing. You will learn about how to copy someone else's remote repository on your GitHub account, how to clone it to your local computer and how to contribute to the original project. Finally, we will discuss how to collaborate on GitHub. We will go through some really important topics, such as, how to set up a collaboration team, how to define different rules for collaborators and much other stuff. Throughout the course, if you have any questions, then you can feel free and post them in Q/A section, you will get fast and helpful support."
+    }
+]
