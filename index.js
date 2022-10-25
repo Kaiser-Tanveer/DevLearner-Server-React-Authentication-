@@ -12,3 +12,6 @@ app.get('/category', (req, res) => {
     res.send(category);
 })
 
+app.listen(port, () => {
+    console.log('Course server is running on port: ', port);
+})
