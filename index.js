@@ -5,11 +5,21 @@ const cors = require('cors');
 const port = process.env.PORT || 5000;
 
 app.use(cors());
-// Getting category
-const category = require('./data/category.json');
 
+const category = require('./data/category.json');
+const courses = require('./data/courses.json');
+
+// Getting category
 app.get('/category', (req, res) => {
     res.send(category);
+});
+
+app.get('/category/:id', (req, res) => {
+    const id = req.params.id;
+    console.log(id);
+    const course_info = courses.find(course => course.course_id === id);
+    res.send(course_info);
+
 })
 
 app.listen(port, () => {

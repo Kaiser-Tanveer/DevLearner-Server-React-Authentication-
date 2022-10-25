@@ -1,6 +1,6 @@
 [
     {
-        "category_id": "01",
+        "course_id": "01",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -13,7 +13,7 @@
         "details": "Hypertext Markup Language, or HTML, is a programming language used to describe the structure of information on a webpage. Together, HTML, CSS, and JavaScript make up the essential building blocks of websites worldwide, with CSS controlling a page’s appearance and JavaScript programming its functionality. You can think of the HTML document as providing the bones of a webpage, while CSS provides the skin, and JavaScript provides the brains"
     },
     {
-        "category_id": "02",
+        "course_id": "02",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -26,7 +26,7 @@
         "details": "This course breaks down the fundamentals of CSS into digestible, easy to understand pieces. Over the next few modules, you'll learn how the core aspects of CSS work and how to use them effectively in your projects. Use the menu pane by the Learn CSS logo to navigate the modules. You'll learn CSS fundamentals like the box model, cascade and specificity, flexbox, grid and z-index. And, along with these fundamentals, you'll learn about functions, color types, gradients, logical properties and inheritance to make you a well-rounded front-end developer, ready to take on any user interface."
     },
     {
-        "category_id": "03",
+        "course_id": "03",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -39,7 +39,7 @@
         "details": "You will learn modern JavaScript from the very beginning, step-by-step. I will guide you through practical and fun code examples, important theory about how JavaScript works behind the scenes, and beautiful and complete projects. You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need on your developer job. And unlike other courses, this one actually contains beginner, intermediate, advanced, and even expert topics, so you don't have to buy any other course in order to master JavaScript from the ground up! But... You don't have to go into all these topics. This is a huge course, because, after all, it's The Complete JavaScript Course. In fact, it's like many courses in one! But you can become an excellent developer by watching only parts of the course. That's why I built this course in a very modular way, and designed pathways that will take you through the course faster."
     },
     {
-        "category_id": "04",
+        "course_id": "04",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -52,7 +52,7 @@
         "details": "React is one of the most powerful and popular frontend JavaScript frameworks used today. Being able to rapidly build robust browser-based applications allows us to provide more value to our end-users. Using JavaScript, this course guides you through creating a few React applications and provides an understanding of the concepts at the core of React"
     },
     {
-        "category_id": "05",
+        "course_id": "05",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -65,7 +65,7 @@
         "details": "In this course, you’ll learn how to build HTTP servers in Node.js using the Express framework. Express allows you to start and configure a server with very little overhead and instead focus on the important work of defining server behavior. You’ll learn how to create routes to implement server behavior for different HTTP methods and paths. You’ll also learn how to use Express’s most powerful features, such as routers and middleware, in order to write clean and readable server-side code."
     },
     {
-        "category_id": "06",
+        "course_id": "06",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
