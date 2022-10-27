@@ -1,6 +1,7 @@
 ## Data Files:
 1. Added category.json as a 'Course Category'
 2. Added courses.json with course details
+3. added vercel.json file to deploy
 
 ## PORT:
 At first set the port at 5000.
