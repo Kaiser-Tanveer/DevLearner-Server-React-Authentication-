@@ -14,12 +14,17 @@ app.get('/category', (req, res) => {
     res.send(category);
 });
 
+
+app.get('/course', (req, res) => {
+    res.send(courses);
+});
+
+
 app.get('/category/:id', (req, res) => {
     const id = req.params.id;
     console.log(id);
     const course_info = courses.find(course => course.course_id === id);
     res.send(course_info);
-
 })
 
 app.listen(port, () => {

@@ -1,26 +1,38 @@
 [
     {
         "id": "01",
-        "name": "HTML"
+        "name": "HTML",
+        "title": "Welcome to learn HTML",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"
     },
     {
         "id": "02",
-        "name": "CSS"
+        "name": "CSS",
+        "title": "Welcome to learn CSS",
+        "img": "https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3-thumbnail.png"
     },
     {
         "id": "03",
-        "name": "JavaScript"
+        "name": "JavaScript",
+        "title": "Welcome to learn JavaScript",
+        "img": "https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png"
     },
     {
         "id": "04",
-        "name": "ReactJs"
+        "name": "React-Js",
+        "title": "Welcome to learn React-Js",
+        "img": "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"
     },
     {
         "id": "05",
-        "name": "ExpressJs"
+        "name": "Express-Js",
+        "title": "Welcome to learn Express-Js",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXgAuAwfMMDkwZScsLkBAeZ4GjyfB7GtIzcA&usqp=CAU"
     },
     {
         "id": "06",
-        "name": "Github"
+        "name": "Github",
+        "title": "Welcome to learn Github",
+        "img": "https://cdn-icons-png.flaticon.com/512/25/25231.png"
     }
 ]

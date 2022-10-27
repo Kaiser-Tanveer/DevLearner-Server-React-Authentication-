@@ -22,7 +22,7 @@
         "title": "Welcome to learn CSS",
         "duration": "4 months",
         "published_date": "2022-08-24 17:27:34",
-        "img": "https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png",
+        "img": "https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3-thumbnail.png",
         "details": "This course breaks down the fundamentals of CSS into digestible, easy to understand pieces. Over the next few modules, you'll learn how the core aspects of CSS work and how to use them effectively in your projects. Use the menu pane by the Learn CSS logo to navigate the modules. You'll learn CSS fundamentals like the box model, cascade and specificity, flexbox, grid and z-index. And, along with these fundamentals, you'll learn about functions, color types, gradients, logical properties and inheritance to make you a well-rounded front-end developer, ready to take on any user interface."
     },
     {
@@ -44,7 +44,7 @@
             "number": 4.5,
             "badge": "Excellent"
         },
-        "name": "ReactJs",
+        "name": "React-Js",
         "title": "Welcome to learn ReactJs",
         "duration": "4 months",
         "published_date": "2022-08-24 17:27:34",
@@ -58,10 +58,10 @@
             "badge": "Excellent"
         },
         "title": "Welcome to learn ExpressJs",
-        "name": "ExpressJs",
+        "name": "Express-Js",
         "duration": "4 months",
         "published_date": "2022-07-14 17:22:34",
-        "img": "https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXgAuAwfMMDkwZScsLkBAeZ4GjyfB7GtIzcA&usqp=CAU",
         "details": "In this course, you’ll learn how to build HTTP servers in Node.js using the Express framework. Express allows you to start and configure a server with very little overhead and instead focus on the important work of defining server behavior. You’ll learn how to create routes to implement server behavior for different HTTP methods and paths. You’ll also learn how to use Express’s most powerful features, such as routers and middleware, in order to write clean and readable server-side code."
     },
     {
